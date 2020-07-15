@@ -10,5 +10,4 @@ L'application traite les fichiers .txt ainsi que les fichiers .csv
 - **Word Count :** Calcul de nombre d'occurences de chaque mot dans un fichier.
 
 # Vidéo Demo
-
-[![FireShot Capture 119 - (1) MultiMiner - Java SE Desktop App Demo - Based on MapReduce Concep_ - www youtube com](https://user-images.githubusercontent.com/23432615/87600867-652d2a00-c6f4-11ea-856f-2e470e7b1ee8.png)](https://www.youtube.com/watch?v=ajHjQv63MV8&t=38s)
+[![demo](https://user-images.githubusercontent.com/23432615/87605538-41201780-c6f9-11ea-83c9-653364a47e8b.png)](https://www.youtube.com/watch?v=ajHjQv63MV8&t=38s)
